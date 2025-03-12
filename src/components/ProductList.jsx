@@ -116,7 +116,7 @@ const languageConfigs = [
     indexName: "qa-ar",
    options:{
     "Client-id": "5807942863",
-    "Content-Type": "Llz5MR37gZ4gJULMwf762w1lQ13Iro",
+    "Secret-key": "Llz5MR37gZ4gJULMwf762w1lQ13Iro",
     "Content-Type": "application/json",
 
    }
