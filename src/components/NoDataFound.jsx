@@ -2,8 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Button, Container } from "react-bootstrap";
 import { mutate } from "swr";
-const NoDataFound = ({handleBack}) => {
-
+const NoDataFound = ({ handleBack }) => {
   return (
     <Container className="text-center mt-5">
       <h2>No Data Found</h2>
